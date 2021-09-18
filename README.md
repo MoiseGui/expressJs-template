@@ -26,6 +26,8 @@ then
 
 ```sh
 $ Using yarn
+# Install dependencies
+$ yarn install
 # to run with nodemon
 $ yarn dev
 # to run with node
@@ -36,6 +38,8 @@ or
 
 ```sh
 $ Using npm
+# Install dependencies
+$ npm install
 # to run with nodemon
 $ npm run dev
 # to run with node
